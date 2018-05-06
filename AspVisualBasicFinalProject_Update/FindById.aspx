@@ -17,5 +17,5 @@
             </asp:ImageField>
         </Columns>
     </asp:GridView>
-    <asp:SqlDataSource ID="SqlDataSource2" runat="server" ConnectionString="<%$ ConnectionStrings:zdcartdbConnectionString %>" SelectCommand="SELECT [ImageUri], [ArtPieceId], [ArtPieceName], [FirstName], [LastName] FROM [art_piece] INNER JOIN [artist] ON [FkArtistId]=[ArtistId]"></asp:SqlDataSource>
+    <asp:SqlDataSource ID="SqlDataSource2" runat="server" ConnectionString="<%$ ConnectionStrings:zdcartdbConnectionString2 %>" SelectCommand="SELECT [ImageUri], [ArtPieceId], [ArtPieceName], [FirstName], [LastName] FROM [art_piece] INNER JOIN [artist] ON [FkArtistId]=[ArtistId]"></asp:SqlDataSource>
 </asp:Content>

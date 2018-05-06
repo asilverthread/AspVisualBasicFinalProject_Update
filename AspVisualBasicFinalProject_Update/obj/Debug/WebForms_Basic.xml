@@ -37,6 +37,51 @@ AspVisualBasicFinalProject_Update
  Returns the Asp log object.
  </summary>
 </member>
+<member name="F:AspVisualBasicFinalProject_Update.FindByArtist._txtName">
+<summary>
+txtName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AspVisualBasicFinalProject_Update.FindByArtist._lblInfo">
+<summary>
+lblInfo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AspVisualBasicFinalProject_Update.FindByArtist._btnSearch">
+<summary>
+btnSearch control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AspVisualBasicFinalProject_Update.FindByArtist._gdvArtPiece">
+<summary>
+gdvArtPiece control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AspVisualBasicFinalProject_Update.FindByArtist._SqlDataSource2">
+<summary>
+SqlDataSource2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
 <member name="F:AspVisualBasicFinalProject_Update.FindById._txtID">
 <summary>
 txtID control.
